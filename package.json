@@ -96,7 +96,7 @@
     "js-cookie": "^2.2.1",
     "luxon": "^1.25.0",
     "netlify-lambda": "1.6.3",
-    "next": "^10.1.1",
+    "next": "^14.2.15",
     "next-images": "^1.4.1",
     "postcss": "^8.3.0",
     "postcss-easy-import": "^3.0.0",
