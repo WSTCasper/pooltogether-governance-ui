@@ -61,7 +61,7 @@
     "@pooltogether/evm-chains-extended": "^0.5.3",
     "@pooltogether/hooks": "^0.2.7",
     "@pooltogether/loot-box": "1.0.0",
-    "@pooltogether/pooltogether-contracts": "3.2.0-beta.2",
+    "@pooltogether/pooltogether-contracts": "3.2.0",
     "@pooltogether/react-components": "^0.2.26",
     "@pooltogether/utilities": "^0.0.43",
     "@reach/dialog": "^0.10.5",
